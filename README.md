@@ -4,5 +4,5 @@ The first project consists of predicting wether a vehicle bought from an auction
 
 The second project consists (among other things) of a time series analysis of the San Francisco homicide rate throughout the 80s and 90s.
 
-Both projects were writen in Python using the Jupyter web framework. I have also included the reports for both projects, detailing the steps followed for every obtained result.
+Both projects were writen in Python using the Jupyter web framework. The file extensions are ".ipynb". I have also included the reports for both projects, detailing the steps followed for every obtained result.
 
